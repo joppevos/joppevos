@@ -1,6 +1,6 @@
 ### Hi there, I'm Joppe 👋
 - 🔭 I’m currently working as data engineer for [VW](https://cariad.technology/)
-- 👯 I’m contributor at [Apache Airflow](https://github.com/apache/airflow)
+- 👯 I’m a contributor at [Apache Airflow](https://github.com/apache/airflow)
 
 ```yaml
 JoppeVos:
