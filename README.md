@@ -1,5 +1,27 @@
-### Hi there 👋
+### Hi there, I'm Joppe 👋
+- 🔭 I’m currently working as data engineer for [VW](https://cariad.technology/)
+- 👯 I’m contributor at [Apache Airflow](https://github.com/apache/airflow)
 
+```yaml
+JoppeVos:
+  Desktop:
+    System: Linux
+    Environment: Gnome
+    Editor: Neovim, IntelliJ
+    Shell: Zsh
+
+  Career:
+    Title: Data Engineer
+    Languages:
+      - Golang
+      - Python
+      - Java
+
+  Interests:
+    - Open Source
+    - Systems Programming
+    - DevOps Tooling
+```   
 <!--
 **joppevos/joppevos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
