@@ -1,5 +1,5 @@
 ### Hi there, I'm Joppe 👋
-- 🔭 I’m currently working as data engineer for [VW](https://cariad.technology/)
+- 🔭 I’m currently working as data engineer for [DeliveryHero](https://www.deliveryhero.com/)
 - 👯 I’m a contributor at [Apache Airflow](https://github.com/apache/airflow)
 
 ```yaml
@@ -15,7 +15,6 @@ JoppeVos:
     Languages:
       - Golang
       - Python
-      - Java
 
   Interests:
     - Open Source
